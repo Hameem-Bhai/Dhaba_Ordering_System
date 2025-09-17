@@ -1,0 +1,16 @@
+=== HAMEEM DHABA SALES REPORT ===
+Generated on: 2025-09-17T21:16:49.447653600
+
+ORDER STATISTICS:
+Total Orders: 1
+Total Revenue: 350.00৳
+Average Order Value: 350.00৳
+
+CUSTOMER STATISTICS:
+Total Customers: 1
+Gold Customers: 0
+Silver Customers: 0
+Bronze Customers: 0
+
+TOP CUSTOMERS BY SPENDING:
+basit hameem: 350.00৳ (Regular)

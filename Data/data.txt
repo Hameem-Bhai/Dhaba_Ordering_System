@@ -1,0 +1,25 @@
+Drinks|Coffee|50.0|Freshly brewed coffee||true
+Drinks|Water|20.0|Pure drinking water||true
+Drinks|Dudh Cha|15.0|Traditional milk tea||true
+Drinks|Red Tea|10.0|Classic red tea||true
+Drinks|Mojo|25.0|Refreshing mojo drink||true
+Drinks|Coke|25.0|Classic Coca Cola||true
+Drinks|Pran Milk|50.0|Fresh milk||true
+Drinks|Sprite|25.0|Lemon-lime soda||true
+Drinks|Boba Tea|150.0|Classic boba tea||true
+Drinks|Caramel Boba Tea|350.0|Caramel flavored boba||true
+Drinks|Strawberry Boba Tea|210.0|Strawberry flavored boba||true
+Drinks|Lychee Boba Tea|180.0|Lychee flavored boba||true
+Drinks|Mango Boba Tea|280.0|Mango flavored boba||true
+Drinks|Oreo Boba Tea|380.0|Oreo flavored boba||true
+Drinks|Matcha Boba Tea|450.0|Matcha flavored boba||true
+Drinks|Taro Boba Tea|500.0|Taro flavored boba||true
+Food|Sandwich|60.0|Fresh sandwich||true
+Food|Shawarma|120.0|Delicious shawarma||true
+Food|Burger|200.0|Juicy burger||true
+Food|Chicken Roll|60.0|Crispy chicken roll||true
+Food|Meat Box|140.0|Meat combo box||true
+Food|Paratha|20.0|Traditional paratha||true
+Food|Grilled Chicken|150.0|Grilled chicken breast||true
+Food|Pizza|300.0|Delicious pizza||true
+Food|Waffle|150.0|Sweet waffle||true
