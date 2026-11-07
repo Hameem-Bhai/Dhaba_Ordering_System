@@ -1,0 +1,12 @@
+DHABA README PACK
+Copy README.md and docs/ into the repository root beside Start.java.
+No Java code, images, or saved Data records are modified by this pack.
+The animated GIF is illustrative artwork, not an app screenshot.
+
+The README is based on Start.java, MainFrame.java, Order, OrderItem,
+OrderServiceImpl, DataManager, MenuManager, and directory listings.
+No Java compilation, desktop execution or storage round-trip test was performed.
+Back up Data/ and use fictional details when testing the existing app.
+
+Checked: ZIP integrity, animated GIF frame decoding and loop metadata.
+Suggested commit: docs: add animated Dhaba guide and source-based setup
